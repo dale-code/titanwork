@@ -1,4 +1,0 @@
-mimas
-dione
-lapetus
-enceladus
